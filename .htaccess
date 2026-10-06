@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://jardinpei.re%{REQUEST_URI} [L,R=301]
+ErrorDocument 404 /index.html
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpeg "access plus 30 days"
+ExpiresByType image/png "access plus 30 days"
+ExpiresByType image/svg+xml "access plus 30 days"
+</IfModule>

@@ -12,7 +12,7 @@
 - Disponibilité : semaine après les cours, week-end, vacances scolaires
 - Matériel : léger (tondeuse, coupe-bordure, cisaille, sécateur, râteau, brouette), suffisant pour un jardin de particulier ; c'est ce qui permet le prix bas
 - Prix : tarif étudiant, inférieur à une entreprise d'espaces verts ; pas de frais de déplacement dans la zone ; devis gratuit par téléphone
-- Site : https://capdepontromain-stack.github.io/jardin-pei/
+- Site : https://jardinpei.re/
 
 ## Services
 - Tonte de pelouse (ponctuelle ou régulière, bordures, herbe ramassée)
