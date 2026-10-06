@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://capdepontromain-stack.github.io/jardin-pei/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://capdepontromain-stack.github.io/jardin-pei/photos/hero-jardinier-etang-saint-leu.jpg</image:loc><image:title>Jardinier à L'Étang Saint-Leu</image:title></image:image>
+    <image:image><image:loc>https://capdepontromain-stack.github.io/jardin-pei/photos/tonte-pelouse-saint-leu.jpg</image:loc><image:title>Tonte de pelouse à Saint-Leu</image:title></image:image>
+    <image:image><image:loc>https://capdepontromain-stack.github.io/jardin-pei/photos/taille-haie-cisailles-trois-bassins.jpg</image:loc><image:title>Taille de haie à Trois-Bassins</image:title></image:image>
+    <image:image><image:loc>https://capdepontromain-stack.github.io/jardin-pei/photos/debroussaillage-piton-saint-leu.jpg</image:loc><image:title>Débroussaillage à Piton Saint-Leu</image:title></image:image>
+  </url>
+</urlset>

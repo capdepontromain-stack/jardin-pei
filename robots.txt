@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capdepontromain-stack.github.io/jardin-pei/sitemap.xml
