@@ -1,0 +1,49 @@
+# Banque de sujets du blog Jardin Péi (jardinpei.re). Un sujet par ligne : slug | titre de travail | angle et mots-clés visés.
+# La routine du matin choisit le PREMIER sujet non encore présent dans outils/articles.json (vérifier aussi les titres proches),
+# en respectant l'ordre des priorités. Elle peut ajouter des sujets en bas de liste (actualité, saison, question d'un client).
+# Priorité 1 : requêtes locales qui amènent des appels (service + commune/quartier, saison en cours à La Réunion).
+# Priorité 2 : conseils pratiques recherchés par les particuliers de l'Ouest.
+# Priorité 3 : sujets de fond (plantes créoles, calendrier, matériel).
+# Faits locaux à manier avec prudence (vérifier avant d'affirmer) : jours de collecte des déchets verts (TCO), adresses de déchèteries,
+# dates officielles de la saison cyclonique (en général du 15 novembre au 15 avril, à écrire avec « en général »), réglementation du débroussaillage.
+# JAMAIS : prix en euros, avis clients inventés, tiret cadratin, promesse de résultat garanti, conseils dangereux (élagage en hauteur, produits chimiques).
+
+## Priorité 1 : local + saison
+jardinier-etang-saint-leu-entretien-jardin | Jardinier à L'Étang Saint-Leu : à quoi s'attendre quand on fait appel à un étudiant du quartier | requête « jardinier L'Étang Saint-Leu », proximité, délai, matériel léger
+entretien-jardin-piton-saint-leu-hauts | Entretien de jardin à Piton Saint-Leu : les particularités des hauts | herbe qui pousse vite, fraîcheur, grands terrains, haies de bord de chemin
+jardinier-trois-bassins-tonte-haies | Tonte et taille de haies à Trois-Bassins : comment ça se passe avec Mathéo | requête « jardinier Trois-Bassins », bas et hauts, déplacement
+preparer-jardin-saison-des-pluies-reunion | Préparer son jardin avant la saison des pluies à La Réunion (novembre) | caniveaux, gouttières, herbe, débroussaillage, saison chaude
+entretien-jardin-location-saisonniere-saint-leu | Location saisonnière à Saint-Leu : garder le jardin impeccable entre deux locataires | propriétaires de meublés, passages réguliers, avis voyageurs
+jardin-maison-vendre-saint-leu-remise-en-etat | Vendre ou louer une maison à Saint-Leu : remettre le jardin au propre avant les visites | première impression, débroussaillage, taille, nettoyage de cour
+arrosage-jardin-pendant-vacances-saint-leu | Qui arrose le jardin pendant vos vacances ? La solution d'un voisin étudiant | arrosage, surveillance, passage, vacances scolaires
+entretien-jardin-personnes-agees-saint-leu | Entretien de jardin pour les personnes âgées à Saint-Leu : un coup de main régulier | aidants, enfants qui vivent loin, passage mensuel, confiance
+entretien-jardin-cyclone-apres-passage | Après un cyclone ou une forte tempête : remettre son jardin en ordre | branches, feuilles, débris, sécurité, ordre des opérations
+tonte-pelouse-saison-chaude-reunion-frequence | Tonte en saison chaude à La Réunion : toutes les deux semaines, vraiment ? | fréquence, hauteur de coupe, herbe mouillée
+debroussaillage-terrain-non-bati-saint-leu | Débroussailler un terrain non bâti à Saint-Leu : pourquoi ne pas attendre | voisinage, nuisibles, feu, obligations à vérifier, friche
+nettoyage-cour-varangue-avant-fete-famille | Nettoyer la cour et la varangue avant une fête de famille | avant un anniversaire, un baptême, un repas : cour, allées, terrasse
+
+## Priorité 2 : conseils pratiques
+tailler-bougainvillier-hibiscus-periode-methode | FAIT le 06/10/2026
+quand-tondre-pelouse-la-reunion-saison | FAIT le 06/10/2026
+debroussailler-terrain-avant-saison-cyclonique-saint-leu | FAIT le 06/10/2026
+dechets-verts-saint-leu-trois-bassins-que-faire | Que faire de ses déchets verts à Saint-Leu et Trois-Bassins | déchèterie, collecte (vérifier le calendrier du TCO avant d'écrire), compost, broyage
+haie-de-bord-de-route-hauteur-voisinage | Haie en bord de route ou de chemin : hauteur, visibilité, bon voisinage | règles de bon sens, taille des deux côtés, sécurité des passants
+mauvaises-herbes-allees-sans-produit-chimique | Mauvaises herbes dans les allées : s'en débarrasser sans produit chimique | binette, eau bouillante, sarclage, paillage, fréquence
+pelouse-jaunie-secheresse-ouest-reunion-que-faire | Pelouse jaunie par la sécheresse dans l'Ouest : que faire et que ne pas faire | hauteur de coupe, arrosage, patience, ne pas scalper
+tondeuse-ou-debroussailleuse-quel-outil | Tondeuse ou débroussailleuse : quel outil pour quel terrain | pente, cailloux, hautes herbes, bordures, matériel léger
+entretien-haie-laurier-rose-toxicite-precautions | Tailler un laurier rose : précautions à prendre | gants, ne pas brûler les branches, enfants et animaux
+paillage-massifs-reunion-chaleur | Pailler ses massifs pour garder l'humidité en saison chaude | feuilles, écorces, herbe sèche, économies d'arrosage
+jardin-en-pente-entretien-saint-leu | Entretenir un jardin en pente (très courant dans les hauts de Saint-Leu) | sécurité, outils, ordre de travail, terrasses
+nettoyage-terrasse-varangue-mousse-algues | Terrasse et varangue : enlever mousse et traces vertes sans abîmer | brosse, eau, savon noir, fréquence
+preparer-visite-jardinier-que-preparer | Avant la venue du jardinier : ce qui aide à aller vite | accès, point d'eau, prise électrique, où mettre les déchets
+entretien-jardin-regulier-ou-ponctuel-que-choisir | Entretien régulier ou intervention ponctuelle : que choisir pour votre jardin | rythme, budget, saison, exemples
+
+## Priorité 3 : sujets de fond
+calendrier-entretien-jardin-reunion-mois-par-mois | Calendrier d'entretien du jardin à La Réunion, mois par mois | été austral, hiver austral, tonte, taille, plantation
+plantes-creoles-faciles-jardin-ouest-reunion | Plantes faciles pour un jardin de l'Ouest : hibiscus, bougainvillier, frangipanier, vétiver | peu d'arrosage, soleil, entretien
+arbres-fruitiers-jardin-reunion-entretien-manguier-letchi | Manguier, letchi, papayer : l'entretien de base au jardin | ramassage des fruits tombés, feuilles, taille légère (pas d'élagage en hauteur)
+gazon-reunion-quelle-herbe-chiendent-kikuyu | Quelle herbe pour une pelouse à La Réunion : chiendent, kikuyu et les autres | résistance à la chaleur, tonte, arrosage
+materiel-leger-jardinier-etudiant-suffit | Le matériel léger d'un jardinier étudiant : pourquoi ça suffit pour un jardin de particulier | tondeuse, coupe-bordure, cisaille, sécateur, râteau, brouette
+compost-maison-reunion-dechets-verts-cuisine | Faire son compost à La Réunion avec les déchets verts et de cuisine | bac, équilibre, chaleur, erreurs
+moustiques-jardin-reunion-eviter-eau-stagnante | Un jardin propre contre les moustiques : supprimer les eaux stagnantes | soucoupes, gouttières, pneus, bambous, herbe haute
+jardin-ombrage-sous-arbres-entretien | Entretenir un jardin très ombragé sous les grands arbres | mousse, herbe rare, feuilles, alternatives au gazon
