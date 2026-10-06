@@ -35,7 +35,7 @@
       "logo": "https://jardinpei.re/logo.png",
       "priceRange": "€",
       "currenciesAccepted": "EUR",
-      "founder": {"@type": "Person", "name": "Mathéo Grondin"},
+      "founder": {"@type": "Person", "name": "Mathéo Grondin", "image": "https://jardinpei.re/photos/matheo-portrait.jpg"},
       "address": {"@type": "PostalAddress", "streetAddress": "L'Étang Saint-Leu", "addressLocality": "Saint-Leu", "postalCode": "97424", "addressRegion": "La Réunion", "addressCountry": "FR"},
       "geo": {"@type": "GeoCoordinates", "latitude": -21.20, "longitude": 55.30},
       "areaServed": [
@@ -139,6 +139,12 @@ section{padding:88px 0}
 section.gris{background:var(--gris-clair)}
 h2{font-size:clamp(1.7rem,3.4vw,2.4rem);color:var(--noir)}
 .intro{max-width:780px;margin:0 auto}
+.intro-portrait{max-width:1000px;display:grid;gap:36px;align-items:center}
+@media(min-width:800px){.intro-portrait{grid-template-columns:240px 1fr}}
+.portrait{text-align:center;margin:0}
+.portrait img{width:220px;height:220px;border-radius:50%;margin:0 auto;border:6px solid #fff;box-shadow:0 12px 32px rgba(11,107,58,.18)}
+.portrait figcaption{margin-top:14px;color:var(--gris);font-size:.98rem;line-height:1.4}
+.portrait b{display:block;font-family:'Jost';font-weight:600;font-size:1.25rem;color:var(--vert-fonce)}
 .intro p{margin-top:22px;color:var(--gris);font-size:1.12rem}
 .intro p strong{color:var(--noir)}
 
@@ -248,10 +254,13 @@ footer .bas{border-top:1px solid #333;margin-top:30px;padding-top:20px;text-alig
 
 <section id="presentation">
   <div class="wrap">
-    <div class="intro">
+    <div class="intro intro-portrait">
+      <figure class="portrait"><img src="photos/matheo-jardinier-etang-saint-leu.png" alt="Mathéo Grondin, jardinier étudiant à L'Étang Saint-Leu" width="800" height="800" loading="lazy"><figcaption><b>Mathéo</b>Étudiant, jardinier à L'Étang Saint-Leu</figcaption></figure>
+      <div>
       <h2 class="filet">L'entretien de votre jardin à Saint-Leu, sans entreprise ni gros devis</h2>
       <p>Je m'appelle Mathéo, je suis étudiant et j'habite à L'Étang Saint-Leu. Entre les cours, le week-end et pendant les vacances, j'entretiens les jardins et les espaces verts des particuliers de mon quartier, de Saint-Leu, de Piton Saint-Leu et de Trois-Bassins.</p>
       <p>Une pelouse qui a poussé trop vite avec les pluies, une haie qui déborde sur le chemin, un terrain à débroussailler avant la saison cyclonique, des déchets verts qui s'entassent au fond de la cour : <strong>vous m'appelez, je passe, je fais le travail et je laisse propre.</strong> Pas de devis compliqué, un prix clair annoncé avant de commencer. Et pas besoin d'un camion ni de machines de pro : une tondeuse, une cisaille, un sécateur, un râteau et une brouette suffisent largement pour un jardin de particulier.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -376,7 +385,7 @@ footer .bas{border-top:1px solid #333;margin-top:30px;padding-top:20px;text-alig
       <div><h3>Zone d'intervention</h3><ul><li>L'Étang Saint-Leu et Pointe au Sel</li><li>Saint-Leu</li><li>Piton Saint-Leu et La Chaloupe</li><li>Trois-Bassins</li><li>Quartiers voisins sur demande</li></ul></div>
       <div><h3>Contact</h3><ul><li><a href="tel:+262693123239">06 93 12 32 39</a></li><li><a href="https://wa.me/262693123239" target="_blank" rel="noopener">WhatsApp</a></li><li><a href="mailto:grondin.matheo416@gmail.com">grondin.matheo416@gmail.com</a></li><li>L'Étang Saint-Leu, 97424 Saint-Leu, La Réunion</li></ul></div>
     </div>
-    <div class="bas">© Jardin Péi, Mathéo Grondin · L'Étang Saint-Leu, La Réunion · Photos d'illustration</div>
+    <div class="bas">© Jardin Péi, Mathéo Grondin · L'Étang Saint-Leu, La Réunion · Photos de jardins : illustrations</div>
   </div>
 </footer>
 
