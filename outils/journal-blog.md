@@ -9,3 +9,4 @@
 - 15/10/2026 : jardin-maison-vendre-saint-leu-remise-en-etat | Vendre ou louer à Saint-Leu : remettre le jardin au propre | 4 URL en 200, IndexNow 200
 - 16/10/2026 : arrosage-jardin-pendant-vacances-saint-leu | Qui arrose le jardin pendant vos vacances à Saint-Leu ? | 4 URL en 200, IndexNow 200
 - 17/10/2026 : entretien-jardin-personnes-agees-saint-leu | Entretien de jardin pour les personnes âgées à Saint-Leu | 4 URL en 200, IndexNow 200
+- 18/10/2026 : entretien-jardin-cyclone-apres-passage | Après un cyclone : remettre son jardin en ordre à Saint-Leu | 4 URL en 200, IndexNow 200
