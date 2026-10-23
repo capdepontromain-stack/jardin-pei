@@ -19,7 +19,7 @@ arrosage-jardin-pendant-vacances-saint-leu | FAIT le 16/10/2026
 entretien-jardin-personnes-agees-saint-leu | FAIT le 17/10/2026
 entretien-jardin-cyclone-apres-passage | FAIT le 18/10/2026
 tonte-pelouse-saison-chaude-reunion-frequence | Tonte en saison chaude à La Réunion : toutes les deux semaines, vraiment ? | fréquence, hauteur de coupe, herbe mouillée (ÉCARTÉ le 22/10/2026 : doublon de quand-tondre-pelouse-la-reunion-saison, ne reprendre qu'avec un angle neuf)
-debroussaillage-terrain-non-bati-saint-leu | Débroussailler un terrain non bâti à Saint-Leu : pourquoi ne pas attendre | voisinage, nuisibles, feu, obligations à vérifier, friche
+debroussaillage-terrain-non-bati-saint-leu | FAIT le 23/10/2026
 nettoyage-cour-varangue-avant-fete-famille | FAIT le 22/10/2026
 
 ## Priorité 2 : conseils pratiques
