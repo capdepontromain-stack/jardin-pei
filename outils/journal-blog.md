@@ -13,3 +13,4 @@
 - 22/10/2026 : nettoyage-cour-varangue-avant-fete-famille | Nettoyer la cour et la varangue avant une fête de famille | 4 URL en 200, IndexNow 200 (sujet tonte saison chaude écarté : doublon)
 - 23/10/2026 : debroussaillage-terrain-non-bati-saint-leu | Débroussailler un terrain non bâti à Saint-Leu : ne pas attendre | 4 URL en 200, IndexNow 200
 - 24/10/2026 : dechets-verts-saint-leu-trois-bassins-que-faire | Que faire de ses déchets verts à Saint-Leu et Trois-Bassins ? | 4 URL en 200, IndexNow 200
+- 25/10/2026 : haie-de-bord-de-route-hauteur-voisinage | Haie en bord de route à Saint-Leu : visibilité et bon voisinage | 4 URL en 200, IndexNow 200
