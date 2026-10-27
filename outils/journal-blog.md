@@ -15,3 +15,4 @@
 - 24/10/2026 : dechets-verts-saint-leu-trois-bassins-que-faire | Que faire de ses déchets verts à Saint-Leu et Trois-Bassins ? | 4 URL en 200, IndexNow 200
 - 25/10/2026 : haie-de-bord-de-route-hauteur-voisinage | Haie en bord de route à Saint-Leu : visibilité et bon voisinage | 4 URL en 200, IndexNow 200
 - 26/10/2026 : mauvaises-herbes-allees-sans-produit-chimique | Mauvaises herbes dans les allées : les enlever sans produit chimique | 4 URL en 200, IndexNow 200
+- 27/10/2026 : pelouse-jaunie-secheresse-ouest-reunion-que-faire | Pelouse jaunie par la sécheresse dans l'Ouest : que faire ? | 4 URL en 200, IndexNow 200
