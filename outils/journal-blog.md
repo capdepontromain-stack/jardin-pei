@@ -17,3 +17,4 @@
 - 26/10/2026 : mauvaises-herbes-allees-sans-produit-chimique | Mauvaises herbes dans les allées : les enlever sans produit chimique | 4 URL en 200, IndexNow 200
 - 27/10/2026 : pelouse-jaunie-secheresse-ouest-reunion-que-faire | Pelouse jaunie par la sécheresse dans l'Ouest : que faire ? | 4 URL en 200, IndexNow 200
 - 28/10/2026 : tondeuse-ou-debroussailleuse-quel-outil | Tondeuse ou débroussailleuse : quel outil pour quel terrain ? | 4 URL en 200, IndexNow 200
+- 29/10/2026 : entretien-haie-laurier-rose-toxicite-precautions | Tailler un laurier rose : les précautions à prendre au jardin | 4 URL en 200, IndexNow 200
