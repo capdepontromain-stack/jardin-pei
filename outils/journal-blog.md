@@ -18,3 +18,4 @@
 - 27/10/2026 : pelouse-jaunie-secheresse-ouest-reunion-que-faire | Pelouse jaunie par la sécheresse dans l'Ouest : que faire ? | 4 URL en 200, IndexNow 200
 - 28/10/2026 : tondeuse-ou-debroussailleuse-quel-outil | Tondeuse ou débroussailleuse : quel outil pour quel terrain ? | 4 URL en 200, IndexNow 200
 - 29/10/2026 : entretien-haie-laurier-rose-toxicite-precautions | Tailler un laurier rose : les précautions à prendre au jardin | 4 URL en 200, IndexNow 200
+- 30/10/2026 : paillage-massifs-reunion-chaleur | Pailler ses massifs à La Réunion : garder l'humidité en saison chaude | 4 URL en 200, IndexNow 200
