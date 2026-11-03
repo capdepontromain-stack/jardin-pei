@@ -20,3 +20,4 @@
 - 29/10/2026 : entretien-haie-laurier-rose-toxicite-precautions | Tailler un laurier rose : les précautions à prendre au jardin | 4 URL en 200, IndexNow 200
 - 30/10/2026 : paillage-massifs-reunion-chaleur | Pailler ses massifs à La Réunion : garder l'humidité en saison chaude | 4 URL en 200, IndexNow 200
 - 02/11/2026 : jardin-en-pente-entretien-saint-leu | Entretenir un jardin en pente à Saint-Leu : méthode et sécurité | 4 URL en 200, IndexNow 200
+- 03/11/2026 : nettoyage-terrasse-varangue-mousse-algues | Terrasse et varangue verdies : enlever la mousse sans rien abîmer | 4 URL en 200, IndexNow 200
