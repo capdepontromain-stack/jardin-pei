@@ -35,7 +35,7 @@ entretien-haie-laurier-rose-toxicite-precautions | FAIT le 29/10/2026
 paillage-massifs-reunion-chaleur | FAIT le 30/10/2026
 jardin-en-pente-entretien-saint-leu | FAIT le 02/11/2026
 nettoyage-terrasse-varangue-mousse-algues | FAIT le 03/11/2026
-preparer-visite-jardinier-que-preparer | Avant la venue du jardinier : ce qui aide à aller vite | accès, point d'eau, prise électrique, où mettre les déchets
+preparer-visite-jardinier-que-preparer | FAIT le 04/11/2026
 entretien-jardin-regulier-ou-ponctuel-que-choisir | Entretien régulier ou intervention ponctuelle : que choisir pour votre jardin | rythme, budget, saison, exemples
 
 ## Priorité 3 : sujets de fond

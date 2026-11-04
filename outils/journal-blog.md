@@ -21,3 +21,4 @@
 - 30/10/2026 : paillage-massifs-reunion-chaleur | Pailler ses massifs à La Réunion : garder l'humidité en saison chaude | 4 URL en 200, IndexNow 200
 - 02/11/2026 : jardin-en-pente-entretien-saint-leu | Entretenir un jardin en pente à Saint-Leu : méthode et sécurité | 4 URL en 200, IndexNow 200
 - 03/11/2026 : nettoyage-terrasse-varangue-mousse-algues | Terrasse et varangue verdies : enlever la mousse sans rien abîmer | 4 URL en 200, IndexNow 200
+- 04/11/2026 : preparer-visite-jardinier-que-preparer | Avant la venue du jardinier : ce qui aide à aller plus vite | 4 URL en 200, IndexNow 200
