@@ -36,7 +36,7 @@ paillage-massifs-reunion-chaleur | FAIT le 30/10/2026
 jardin-en-pente-entretien-saint-leu | FAIT le 02/11/2026
 nettoyage-terrasse-varangue-mousse-algues | FAIT le 03/11/2026
 preparer-visite-jardinier-que-preparer | FAIT le 04/11/2026
-entretien-jardin-regulier-ou-ponctuel-que-choisir | Entretien régulier ou intervention ponctuelle : que choisir pour votre jardin | rythme, budget, saison, exemples
+entretien-jardin-regulier-ou-ponctuel-que-choisir | FAIT le 05/11/2026
 
 ## Priorité 3 : sujets de fond
 calendrier-entretien-jardin-reunion-mois-par-mois | Calendrier d'entretien du jardin à La Réunion, mois par mois | été austral, hiver austral, tonte, taille, plantation
