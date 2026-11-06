@@ -39,7 +39,7 @@ preparer-visite-jardinier-que-preparer | FAIT le 04/11/2026
 entretien-jardin-regulier-ou-ponctuel-que-choisir | FAIT le 05/11/2026
 
 ## Priorité 3 : sujets de fond
-calendrier-entretien-jardin-reunion-mois-par-mois | Calendrier d'entretien du jardin à La Réunion, mois par mois | été austral, hiver austral, tonte, taille, plantation
+calendrier-entretien-jardin-reunion-mois-par-mois | FAIT le 06/11/2026
 plantes-creoles-faciles-jardin-ouest-reunion | Plantes faciles pour un jardin de l'Ouest : hibiscus, bougainvillier, frangipanier, vétiver | peu d'arrosage, soleil, entretien
 arbres-fruitiers-jardin-reunion-entretien-manguier-letchi | Manguier, letchi, papayer : l'entretien de base au jardin | ramassage des fruits tombés, feuilles, taille légère (pas d'élagage en hauteur)
 gazon-reunion-quelle-herbe-chiendent-kikuyu | Quelle herbe pour une pelouse à La Réunion : chiendent, kikuyu et les autres | résistance à la chaleur, tonte, arrosage

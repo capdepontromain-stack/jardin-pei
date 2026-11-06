@@ -23,3 +23,4 @@
 - 03/11/2026 : nettoyage-terrasse-varangue-mousse-algues | Terrasse et varangue verdies : enlever la mousse sans rien abîmer | 4 URL en 200, IndexNow 200
 - 04/11/2026 : preparer-visite-jardinier-que-preparer | Avant la venue du jardinier : ce qui aide à aller plus vite | 4 URL en 200, IndexNow 200
 - 05/11/2026 : entretien-jardin-regulier-ou-ponctuel-que-choisir | Entretien de jardin régulier ou ponctuel : que choisir ? | 4 URL en 200, IndexNow 200 (dossier local absent du Bureau, restauré depuis GitHub)
+- 06/11/2026 : calendrier-entretien-jardin-reunion-mois-par-mois | Calendrier d'entretien du jardin à La Réunion, mois par mois | 4 URL en 200, IndexNow 200
