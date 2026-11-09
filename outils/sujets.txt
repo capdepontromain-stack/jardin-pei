@@ -40,10 +40,23 @@ entretien-jardin-regulier-ou-ponctuel-que-choisir | FAIT le 05/11/2026
 
 ## Priorité 3 : sujets de fond
 calendrier-entretien-jardin-reunion-mois-par-mois | FAIT le 06/11/2026
-plantes-creoles-faciles-jardin-ouest-reunion | Plantes faciles pour un jardin de l'Ouest : hibiscus, bougainvillier, frangipanier, vétiver | peu d'arrosage, soleil, entretien
+plantes-creoles-faciles-jardin-ouest-reunion | FAIT le 09/11/2026
 arbres-fruitiers-jardin-reunion-entretien-manguier-letchi | FAIT le 08/11/2026
 gazon-reunion-quelle-herbe-chiendent-kikuyu | Quelle herbe pour une pelouse à La Réunion : chiendent, kikuyu et les autres | résistance à la chaleur, tonte, arrosage
 materiel-leger-jardinier-etudiant-suffit | Le matériel léger d'un jardinier étudiant : pourquoi ça suffit pour un jardin de particulier | tondeuse, coupe-bordure, cisaille, sécateur, râteau, brouette
 compost-maison-reunion-dechets-verts-cuisine | Faire son compost à La Réunion avec les déchets verts et de cuisine | bac, équilibre, chaleur, erreurs
 moustiques-jardin-reunion-eviter-eau-stagnante | FAIT le 07/11/2026
 jardin-ombrage-sous-arbres-entretien | Entretenir un jardin très ombragé sous les grands arbres | mousse, herbe rare, feuilles, alternatives au gazon
+
+## Nouveaux sujets ajoutés le 09/11/2026 (requêtes locales et saison chaude à venir)
+tonte-pelouse-pointe-au-sel-saint-leu | Tonte de pelouse à Pointe au Sel : un jardinier du quartier | priorité 1, service + quartier, sol sec et cailloux
+entretien-jardin-la-chaloupe-saint-leu | Entretien de jardin à La Chaloupe Saint-Leu : herbe, haies et pluie | priorité 1, hauts de Saint-Leu, pousse rapide
+jardin-propre-avant-noel-saint-leu | Un jardin propre avant Noël et le jour de l'An à Saint-Leu | priorité 1, saison, tonte, haies, cour avant les repas de famille
+taille-haie-avant-saison-cyclonique-saint-leu | Tailler ses haies avant la saison cyclonique : pourquoi et comment | priorité 1, saison cyclonique (en général dès mi-novembre), branches, vent
+entretien-jardin-pendant-vacances-decembre-saint-leu | Partir en décembre : faire entretenir son jardin pendant les fêtes | priorité 1, vacances d'été austral, tonte, arrosage, passages
+herbe-qui-pousse-vite-saison-des-pluies-reunion | Saison des pluies : l'herbe pousse vite, comment suivre le rythme | priorité 2, tonte, herbe mouillée, coupe-bordure (angle distinct de la fréquence)
+jardin-enfants-securite-entretien | Un jardin sûr pour les enfants : ce que je vérifie en entretenant | priorité 2, épines, outils rangés, plantes irritantes, eau stagnante
+ramasser-feuilles-gouttieres-depuis-le-sol | Feuilles et débris autour de la maison : le nettoyage depuis le sol | priorité 2, sans échelle, regards, grilles, écoulement (jamais de travail en hauteur)
+entretien-jardin-maison-neuve-saint-leu | Maison neuve à Saint-Leu : premiers soins d'un jardin tout neuf | priorité 2, terre nue, gazon jeune, paillage, haie à installer
+bordures-et-finitions-jardin-coupe-bordure | Bordures nettes : les finitions qui changent l'allure du jardin | priorité 3, coupe-bordure, allées, pieds de murs, matériel léger
+
