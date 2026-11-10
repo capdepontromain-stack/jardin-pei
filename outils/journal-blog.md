@@ -27,3 +27,4 @@
 - 07/11/2026 : moustiques-jardin-reunion-eviter-eau-stagnante | Moustiques au jardin à La Réunion : chasser les eaux stagnantes | 4 URL en 200, IndexNow 200 (sujet de saison choisi avant plantes-creoles, priorité 3)
 - 08/11/2026 : arbres-fruitiers-jardin-reunion-entretien-manguier-letchi | Manguier, letchi, papayer : l'entretien de base au jardin | 4 URL en 200, IndexNow 200 (sujet de saison des fruits choisi avant plantes-creoles, priorité 3)
 - 09/11/2026 : plantes-creoles-faciles-jardin-ouest-reunion | Plantes faciles pour un jardin de l'Ouest à La Réunion | 4 URL en 200, IndexNow 200 (10 nouveaux sujets ajoutés, banque sous 5)
+- 10/11/2026 : taille-haie-avant-saison-cyclonique-saint-leu | Tailler ses haies avant la saison cyclonique à Saint-Leu | 4 URL en 200, IndexNow 200 (sujet de saison choisi avant tonte-pelouse-pointe-au-sel, à 5 jours du début de la saison cyclonique)

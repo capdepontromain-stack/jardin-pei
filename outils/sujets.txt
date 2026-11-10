@@ -52,7 +52,7 @@ jardin-ombrage-sous-arbres-entretien | Entretenir un jardin très ombragé sous 
 tonte-pelouse-pointe-au-sel-saint-leu | Tonte de pelouse à Pointe au Sel : un jardinier du quartier | priorité 1, service + quartier, sol sec et cailloux
 entretien-jardin-la-chaloupe-saint-leu | Entretien de jardin à La Chaloupe Saint-Leu : herbe, haies et pluie | priorité 1, hauts de Saint-Leu, pousse rapide
 jardin-propre-avant-noel-saint-leu | Un jardin propre avant Noël et le jour de l'An à Saint-Leu | priorité 1, saison, tonte, haies, cour avant les repas de famille
-taille-haie-avant-saison-cyclonique-saint-leu | Tailler ses haies avant la saison cyclonique : pourquoi et comment | priorité 1, saison cyclonique (en général dès mi-novembre), branches, vent
+taille-haie-avant-saison-cyclonique-saint-leu | FAIT le 10/11/2026
 entretien-jardin-pendant-vacances-decembre-saint-leu | Partir en décembre : faire entretenir son jardin pendant les fêtes | priorité 1, vacances d'été austral, tonte, arrosage, passages
 herbe-qui-pousse-vite-saison-des-pluies-reunion | Saison des pluies : l'herbe pousse vite, comment suivre le rythme | priorité 2, tonte, herbe mouillée, coupe-bordure (angle distinct de la fréquence)
 jardin-enfants-securite-entretien | Un jardin sûr pour les enfants : ce que je vérifie en entretenant | priorité 2, épines, outils rangés, plantes irritantes, eau stagnante
