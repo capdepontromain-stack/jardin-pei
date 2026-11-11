@@ -49,7 +49,7 @@ moustiques-jardin-reunion-eviter-eau-stagnante | FAIT le 07/11/2026
 jardin-ombrage-sous-arbres-entretien | Entretenir un jardin très ombragé sous les grands arbres | mousse, herbe rare, feuilles, alternatives au gazon
 
 ## Nouveaux sujets ajoutés le 09/11/2026 (requêtes locales et saison chaude à venir)
-tonte-pelouse-pointe-au-sel-saint-leu | Tonte de pelouse à Pointe au Sel : un jardinier du quartier | priorité 1, service + quartier, sol sec et cailloux
+tonte-pelouse-pointe-au-sel-saint-leu | FAIT le 11/11/2026
 entretien-jardin-la-chaloupe-saint-leu | Entretien de jardin à La Chaloupe Saint-Leu : herbe, haies et pluie | priorité 1, hauts de Saint-Leu, pousse rapide
 jardin-propre-avant-noel-saint-leu | Un jardin propre avant Noël et le jour de l'An à Saint-Leu | priorité 1, saison, tonte, haies, cour avant les repas de famille
 taille-haie-avant-saison-cyclonique-saint-leu | FAIT le 10/11/2026
