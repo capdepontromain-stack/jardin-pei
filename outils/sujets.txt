@@ -50,7 +50,7 @@ jardin-ombrage-sous-arbres-entretien | Entretenir un jardin très ombragé sous 
 
 ## Nouveaux sujets ajoutés le 09/11/2026 (requêtes locales et saison chaude à venir)
 tonte-pelouse-pointe-au-sel-saint-leu | FAIT le 11/11/2026
-entretien-jardin-la-chaloupe-saint-leu | Entretien de jardin à La Chaloupe Saint-Leu : herbe, haies et pluie | priorité 1, hauts de Saint-Leu, pousse rapide
+entretien-jardin-la-chaloupe-saint-leu | FAIT le 12/11/2026
 jardin-propre-avant-noel-saint-leu | Un jardin propre avant Noël et le jour de l'An à Saint-Leu | priorité 1, saison, tonte, haies, cour avant les repas de famille
 taille-haie-avant-saison-cyclonique-saint-leu | FAIT le 10/11/2026
 entretien-jardin-pendant-vacances-decembre-saint-leu | Partir en décembre : faire entretenir son jardin pendant les fêtes | priorité 1, vacances d'été austral, tonte, arrosage, passages
