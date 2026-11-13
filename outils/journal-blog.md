@@ -30,3 +30,4 @@
 - 10/11/2026 : taille-haie-avant-saison-cyclonique-saint-leu | Tailler ses haies avant la saison cyclonique à Saint-Leu | 4 URL en 200, IndexNow 200 (sujet de saison choisi avant tonte-pelouse-pointe-au-sel, à 5 jours du début de la saison cyclonique)
 - 11/11/2026 : tonte-pelouse-pointe-au-sel-saint-leu | Tonte de pelouse à Pointe au Sel : un jardinier du quartier | 4 URL en 200, IndexNow 200
 - 12/11/2026 : entretien-jardin-la-chaloupe-saint-leu | Entretien de jardin à La Chaloupe Saint-Leu : herbe, haies et pluie | 4 URL en 200
+- 13/11/2026 : jardin-enfants-securite-entretien | Jardin sûr pour les enfants à Saint-Leu : ce que je vérifie | 4 URL en 200, IndexNow 200 (sujets Noël et vacances écartés : doublons partiels de cour-varangue et arrosage-vacances)

@@ -55,7 +55,7 @@ jardin-propre-avant-noel-saint-leu | Un jardin propre avant Noël et le jour de 
 taille-haie-avant-saison-cyclonique-saint-leu | FAIT le 10/11/2026
 entretien-jardin-pendant-vacances-decembre-saint-leu | Partir en décembre : faire entretenir son jardin pendant les fêtes | priorité 1, vacances d'été austral, tonte, arrosage, passages
 herbe-qui-pousse-vite-saison-des-pluies-reunion | Saison des pluies : l'herbe pousse vite, comment suivre le rythme | priorité 2, tonte, herbe mouillée, coupe-bordure (angle distinct de la fréquence)
-jardin-enfants-securite-entretien | Un jardin sûr pour les enfants : ce que je vérifie en entretenant | priorité 2, épines, outils rangés, plantes irritantes, eau stagnante
+jardin-enfants-securite-entretien | FAIT le 13/11/2026
 ramasser-feuilles-gouttieres-depuis-le-sol | Feuilles et débris autour de la maison : le nettoyage depuis le sol | priorité 2, sans échelle, regards, grilles, écoulement (jamais de travail en hauteur)
 entretien-jardin-maison-neuve-saint-leu | Maison neuve à Saint-Leu : premiers soins d'un jardin tout neuf | priorité 2, terre nue, gazon jeune, paillage, haie à installer
 bordures-et-finitions-jardin-coupe-bordure | Bordures nettes : les finitions qui changent l'allure du jardin | priorité 3, coupe-bordure, allées, pieds de murs, matériel léger
